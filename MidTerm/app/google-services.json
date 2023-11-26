@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352472300337",
+    "project_id": "midterm-c04d9",
+    "storage_bucket": "midterm-c04d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352472300337:android:6cde5e6866a3efe4bd4e10",
+        "android_client_info": {
+          "package_name": "vn.edu.tdtu.midterm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGKcICLgosOCDTmy6eHOa1oduyKNf4KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
